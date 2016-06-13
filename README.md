@@ -4,22 +4,22 @@ front-end project for DigitalCrafts
 
 # Overview of Project
 Our project will be sports aggragator that pulls: 
-*Map of where current matches are held
+* Map of where current matches are held
 
-*Options to buy tickets
+* Options to buy tickets
 
-*Historical data of past matches.
+* Historical data of past matches.
 
 
 
 # Technologies, Frameworks, and Programming Languages used
-*Bootstrap
+* Bootstrap
 
-*(stats) Sports Radar API
+* (stats) Sports Radar API
 
-*(tickets) Ticketmaster/StubHub API
+* (tickets) Ticketmaster/StubHub API
 
-*(map) Google Maps API
+* (map) Google Maps API
 
 
 # Contributors
