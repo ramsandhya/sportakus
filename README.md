@@ -21,6 +21,8 @@ Our project will be sports aggragator that pulls:
 
 * (map) Google Maps API
 
+* XML to JSON converter: http://www.utilities-online.info/xmltojson/#.V17zT-YrJhE
+
 
 # Contributors
 Dave, Sandyha, Matthew
