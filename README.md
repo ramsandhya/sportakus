@@ -1,14 +1,26 @@
-# sportakus
+# Sportakus
 front-end project for DigitalCrafts
 
 
 # Overview of Project
-Our project will be sports aggragator that pulls: map of where current matches are held, options to buy tickets, historical data of past matches.
+Our project will be sports aggragator that pulls: 
+*Map of where current matches are held
+
+*Options to buy tickets
+
+*Historical data of past matches.
 
 
 
 # Technologies, Frameworks, and Programming Languages used
-We will utilize API's that provide us with geographical abilities, pull from mostly Sports Radar API.
+*Bootstrap
+
+*(stats) Sports Radar API
+
+*(tickets) Ticketmaster/StubHub API
+
+*(map) Google Maps API
+
 
 # Contributors
 Dave, Sandyha, Matthew
