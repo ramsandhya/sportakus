@@ -7,22 +7,28 @@ html, body {
   padding: 0;
 }
 #map{
-  height: 600px;
-  width: 900px;
-  display: block;
+  height: 900px;
+  max-width: 60%;
   margin: 50px;
+  overflow: hidden;
+  padding-bottom: 35px;
+  position: absolute;
+  float: left;
+  width: 70%;
+
+
 }
-.listitem li{
+/*.listitem li{
   font-size: 20px;
+}*/
+
+.container{
+  float: right;
+  position: relative ;
+  width: 30%;
+  margin-top: 20px;
 }
-#ticketBox {
- height: 100%;
- width: 20%;
- left: 80%;
- position: absolute;
- padding: 2%;
- padding-top: 40px;
- overflow: auto;
- box-sizing: border-box;
- background-color: #cccccc ;
+
+#attraction-panel {
+display:none;
 }
