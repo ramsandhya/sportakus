@@ -1,14 +1,17 @@
+*{
+  box-sizing: border-box
+}
 body{
   background-image: url(sports-large.jpg);
 }
-html, body {
+/*html, body {
   height: 100%;
   margin: 0;
   padding: 0;
-}
+}*/
+
 #map{
-  height: 900px;
-  max-width: 60%;
+  height: 75%;
   margin: 50px;
   overflow: hidden;
   padding-bottom: 35px;
@@ -23,10 +26,12 @@ html, body {
 }*/
 
 .container{
-  float: right;
-  position: relative ;
-  width: 30%;
-  margin-top: 20px;
+  height: 75%;
+  margin: 50px;
+  right: -55%;
+  position: absolute;
+  overflow: hidden;
+  margin: 0 auto;
 }
 
 #attraction-panel {

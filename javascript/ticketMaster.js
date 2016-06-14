@@ -20,7 +20,7 @@ function getEvents(page) {
     type:"GET",
     // url:"https://app.ticketmaster.com/discovery/v2/events.json?apikey=5QGCEXAsJowiCI4n1uAwMlCGAcSNAEmG&size=4&page="+page,
 
-    url: "https://app.ticketmaster.com/discovery/v2/events.json?apikey=5QGCEXAsJowiCI4n1uAwMlCGAcSNAEmG&keyword=baseball&city=atlanta&page=" + page,
+    url: "https://app.ticketmaster.com/discovery/v2/events.json?apikey=5QGCEXAsJowiCI4n1uAwMlCGAcSNAEmG&keyword=sports&size=3&city=atlanta&page=" + page,
     async:true,
     dataType: "json",
     success: function(json) {
